@@ -15,7 +15,6 @@ php artisan make:model Movie
 php artisan make:controller Guest/PageController
 - All’interno della funzione index() del controller, recuperate tutti i film dal database e passateli alla view, che quindi li visualizzerà a schermo, tramite delle card.
 
-
 ## Bonus 
 Inventare una grafica a piacere per il sito e realizzarne il layout, aggiungendo lo stile con SASS.
 
