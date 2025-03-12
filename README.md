@@ -18,3 +18,6 @@ php artisan make:controller Guest/PageController
 
 ## Bonus 
 Inventare una grafica a piacere per il sito e realizzarne il layout, aggiungendo lo stile con SASS.
+
+# Risultato
+<img src="./risultato.png">
